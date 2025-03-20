@@ -2,9 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: index
+root: docs/main.md
 chapters:
-  - file: docs/main.md
   - file: docs/contributing.md
   - file: docs/license.md
   - file: docs/acknowledgements.md
