@@ -6,12 +6,14 @@ CDOS contains the ontologies that describe crystallographic defects, following a
 
 #### Crystallographic Defect Ontology Suite - cdos
 
+:::{figure-md} markdown-fig
 <div style="text-align:center"><img src=source/_static/CDOS.jpg width="400" /></div>
+:::
 
 #### Crystallographic Defect Core Ontology - cdco
  * iri: http://purls.helmholtz-metadaten.de/cdos/cdco
  * repo:https://github.com/OCDO/cdco
- * :page_facing_up: https://ocdo.github.io/cdco/
+ * U+1F4C4 https://ocdo.github.io/cdco/
 
 ![Schematic representation of CDCO](source/_static/CDCO.jpg)
 
