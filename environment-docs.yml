@@ -1,4 +1,4 @@
-name: tools4rdf
+name: cdos
 channels:
   - conda-forge
 dependencies:
