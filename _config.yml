@@ -55,4 +55,3 @@ sphinx:
   - 'sphinx.ext.napoleon'
   - 'sphinx.ext.viewcode'
   - 'sphinx.ext.autosummary'
-  - 'sphinxemoji.sphinxemoji'
