@@ -4,6 +4,7 @@
 format: jb-book
 root: docs/main.md
 chapters:
+  - file: docs/ontologies.md
   - file: docs/contributing.md
   - file: docs/license.md
   - file: docs/acknowledgements.md
