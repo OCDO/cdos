@@ -2,7 +2,7 @@
 
 The Open Crystallographic Defects Ontologies is an initiative that aims to develop standard and interoperable semantics describing crystal defects in materials.
 
-<div style="text-align:center"><img src=source/_static/Defects.png /></div>
+![Schematic representation of defects](source/_static/Defects.png)
 
 * **CDOS - Crystallographic Defect Ontology Suite** 
   * CDCO - Crystallographic Defect Core Ontology
