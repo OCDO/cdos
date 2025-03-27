@@ -6,3 +6,5 @@ dependencies:
   - jupyterlab
   - python-graphviz
   - jupyter-book
+  - pip:
+    - sphinxemoji
